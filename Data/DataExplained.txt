@@ -1,1 +1,16 @@
-// To be edited
+// Data Explained *** EDIT ***
+
+// eskin_raw
+Raw data from the arduino sensor and the labeling for said data
+
+// eskin_input
+raw data extracted from above
+
+// eskin_output
+labels fixed to not be so specific
+
+// eskin_stats 
+eskin_input statistics like mean of sensors, standard deviations, etc.
+
+// eskin_stats_fft
+fast fourier transform of eskin_input with the same statistics as eskin_stats
